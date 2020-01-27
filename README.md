@@ -1,9 +1,13 @@
 # Bestias-Card-Game
 Second year 5 people group projects, made with Unity, assets made with Maya by artists
 2 developers and 3 artists
+
 Team name: Crypto
+
 Team members: 
+
 Developers: Stavros Charitos, Georgios Botzakis
+
 Artists: Vasiliki Prokopaki, Vanessa Sgouromali, Andrew Irakleous
 
 This project awarded with the best Art reward at my universities games showcase 'Sunderland Games Expo(SGX)'.
