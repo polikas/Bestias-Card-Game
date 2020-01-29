@@ -1,5 +1,5 @@
 # Bestias-Card-Game
-Second year 5 people group projects, made with Unity, assets made with Maya by artists, made in 5 days
+Second year 5 people group projects, made with Unity, assets made with Maya by artists, made in 4 days
 
 2 developers and 3 artists
 
